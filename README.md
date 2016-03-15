@@ -4,7 +4,14 @@ Electron Functional Reactive Programming Lab.
 
 An electron app and bundled server for the purpose of exploring how these tenchologies can interact with one another.
 
-## Todo
+
+## This app is in a very early stage of development!
+
+The libraries called on are not properly document.
+The example code it was developed from is not properly attributed.
+My apologies.
+
+### Todo
 
   - Document code properly.
   - link server start in package.json.
